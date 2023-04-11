@@ -3,17 +3,17 @@
         "dev": {
             "profile": "ml-dev-sandbox",
             "workspace_dir": "/Repos/alex.barreto@databricks.com/e2e_mlops_azure/dev/dbx/e2e_mlops_dev",
-            "artifact_location": "dbfs:/home/alex.barreto@databricks.com/e2e_mlops_azure/dev/dbx/projects/e2e_mlops_ado_dbx_dev"
+            "artifact_location": "dbfs:/home/alex.barreto@databricks.com/e2e_mlops_azure/dev/dbx/projects/alexxx_e2e_mlops_ado_dbx_dev"
         },
         "staging": {
             "profile": "ml-dev-sandbox",
             "workspace_dir": "/Repos/alex.barreto@databricks.com/e2e_mlops_azure/staging/dbx/e2e_mlops_staging",
-            "artifact_location": "dbfs:/home/alex.barreto@databricks.com/e2e_mlops_azure/staging/dbx/projects/e2e_mlops_ado_dbx_staging"
+            "artifact_location": "dbfs:/home/alex.barreto@databricks.com/e2e_mlops_azure/staging/dbx/projects/alexxx_e2e_mlops_ado_dbx_staging"
         },
         "prod": {
             "profile": "ml-dev-sandbox",
             "workspace_dir": "/Repos/alex.barreto@databricks.com/e2e_mlops_azure/prod/dbx/e2e_mlops_prod",
-            "artifact_location": "dbfs:/home/alex.barreto@databricks.com/e2e_mlops_azure/prod/dbx/projects/e2e_mlops_ado_dbx_prod"
+            "artifact_location": "dbfs:/home/alex.barreto@databricks.com/e2e_mlops_azure/prod/dbx/projects/alexxx_e2e_mlops_ado_dbx_prod"
         }
     }
 }
